@@ -16,6 +16,9 @@ This app is built to generate a high-quality README file by using the command li
 ## Usage Information
 1) Run `node index.js` in the command line.
 2) Answer prompted questions.
+
+[Click Here](https://drive.google.com/file/d/1smw-PK8-5mlr5o0AhhCN1hUFuhi3C03N/view) for a link to the demo video.
+
 ![instruction video](./Develop/instruction%20video.gif)
 ## Question
 If you have any additional questions about this project, Feel free to reach me at [vantam8300@gmail.com](vantam8300@gmail.com).

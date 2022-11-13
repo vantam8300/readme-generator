@@ -5,9 +5,6 @@ This app is built to generate a high-quality README file by using the command li
 ## Table of Contents
 - [Instructions](#instructions)
 - [Usage Informations](#usage-information)
-- [License](#license)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Test Instructions](#test-instructions)
 - [Question](#question)
 ## Instructions
 - clone this repository.
